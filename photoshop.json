@@ -3,12 +3,12 @@
       {
         "id": "art-1",
         "label": "Default",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        "link": "https://images4.alphacoders.com/576/thumb-1920-57696.jpg"
+        "description": null,
+        "link": "https://res.cloudinary.com/vladap/image/upload/v1613138355/PHOTOSHOP/copil_si_adult_tcncxg.png"
       },
       {
         "id": "art-2",
-        "label": "soldat si fluture",
+        "label": "Soldat si fluture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         "link": "https://res.cloudinary.com/vladap/image/upload/v1613138348/PHOTOSHOP/soldat_casca_2_ncsglt.png"
       }
