@@ -2,20 +2,20 @@
     "data": [
       {
         "id": "art-1",
-        "label": "Default",
+        "label": null,
         "description": null,
         "link": "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/LOGOJup_nwwrud.png"
       },
       {
         "id": "art-2",
-        "label": "Anime",
+        "label": null,
         "description": null,
         "link":
           "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/FLUIDZ_bwg82v.jpg"
       },
       {
         "id": "art-3",
-        "label": "Anime",
+        "label": null,
         "description": null,
         "link":
           "https://res.cloudinary.com/vladap/image/upload/v1613292360/illustrator/DM_ELITE_QUEENS_png_darius_on_top_dfiaoo.png"
