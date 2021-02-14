@@ -1,6 +1,7 @@
 {
   "data": [{
       "id": "art-1",
+      "background": "black",
       "label": null,
       "description": null,
       "link": "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/LOGOJup_nwwrud.png"
