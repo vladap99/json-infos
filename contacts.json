@@ -1,28 +1,17 @@
 {
-    "data": [
-      {
-        "id": "contact-1",
-        "icon": "home",
-        "label": "youtube",
-        "link": "https://www.youtube.com/"
-      },
-      {
-        "id": "contact-2",
-        "icon": "receiver",
-        "label": "0760623382",
-        "link": "#"
-      },
-      {
-        "id": "contact-4",
-        "label": "apostol.vlad48@gmail.com",
-        "link": "#",
-        "icon": "happy"
-      },
-      {
-        "id": "contact-3",
-        "label": "youtube",
-        "link": "https://www.youtube.com/"
-      }
-    ]
-  }
-  
+  "data": [
+    {
+      "id": "contact-2",
+      "icon": "receiver",
+      "label": "0760623382",
+      "link": "#"
+    },
+    {
+      "id": "contact-4",
+      "label": "apostol.vlad48@gmail.com",
+      "link": "#",
+      "icon": "mail"
+    }
+
+  ]
+}
