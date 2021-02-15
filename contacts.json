@@ -1,17 +1,24 @@
 {
   "data": [
     {
-      "id": "contact-2",
+      "id": "contact-1",
       "icon": "receiver",
       "label": "0760623382",
       "link": "#"
     },
     {
-      "id": "contact-4",
+      "id": "contact-2",
       "label": "apostol.vlad48@gmail.com",
       "link": "#",
       "icon": "mail"
+    },
+    {
+      "id": "contact-3",
+      "label": "linkedin",
+      "link": "https://www.linkedin.com/in/vlad-apostol-5892a51b5/",
+      "icon": "linkedin"
     }
+    
 
   ]
 }
