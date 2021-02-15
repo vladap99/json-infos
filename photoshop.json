@@ -2,15 +2,27 @@
     "data": [
       {
         "id": "art-1",
-        "label": "Default",
+        "label": null,
         "description": null,
         "link": "https://res.cloudinary.com/vladap/image/upload/v1613138355/PHOTOSHOP/copil_si_adult_tcncxg.png"
       },
       {
         "id": "art-2",
-        "label": "Soldat si fluture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "label": null,
+        "description": null,
         "link": "https://res.cloudinary.com/vladap/image/upload/v1613138348/PHOTOSHOP/soldat_casca_2_ncsglt.png"
+      },
+      {
+        "id": "art-3",
+        "label": null,
+        "description": null,
+        "link": "https://res.cloudinary.com/vladap/image/upload/v1613138351/PHOTOSHOP/photo-1552674757-d6dcbaa24cb3_xydyht.jpg"
+      },
+      {
+        "id": "art-3",
+        "label": null,
+        "description": null,
+        "link": "https://res.cloudinary.com/vladap/image/upload/v1613381394/PHOTOSHOP/3LUPI_contur_sgarieturi_final_proiect_pgj_nuadxw.jpg"
       }
     ]
   }
