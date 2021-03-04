@@ -1,17 +1,77 @@
 {
-    "data": [
-      {
-        "id": "art-1",
-        "label": "Default",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        "link": "https://images4.alphacoders.com/576/thumb-1920-57696.jpg"
-      },
-      {
-        "id": "art-2",
-        "label": "Anime",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        "link":
-          "https://res.cloudinary.com/djdx2x303/image/upload/v1612874981/Test-img/1551490323908_mt7bth.png"
-      }
-    ]
-  }
+  "data": [{
+      "id": "art-1",
+      "background": "black",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/LOGOJup_nwwrud.png"
+    },
+    {
+      "id": "art-2",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/FLUIDZ_bwg82v.jpg"
+    },
+    {
+      "id": "art-3",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292360/illustrator/DM_ELITE_QUEENS_png_darius_on_top_dfiaoo.png"
+    },
+    {
+      "id": "art-4",
+      "background": "white",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292360/illustrator/logo_here_town_pg_wm1qef.png"
+    },
+    {
+      "id": "art-5",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292360/illustrator/dentar_clinic_kqgxct.jpg"
+    },
+    {
+      "id": "art-6",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292360/illustrator/Girl_logo_turban_doar_ca_ai_kkwehc.png"
+    },
+    {
+      "id": "art-7",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/volts_ripara_pg_sphmk0.png"
+    },
+    {
+      "id": "art-8",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613380482/illustrator/ST_logo_mock_mark_e0mznd.png"
+    },
+    {
+      "id": "art-9",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613292361/illustrator/bivol_cu_foc_pjextc.jpg"
+    },
+    {
+      "id": "art-10",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613380803/illustrator/om_firma_backblack_ffukhg.jpg"
+    },
+    {
+      "id": "art-11",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613393736/illustrator/Centurion_dex_sin_dex_sin_T-s_luq9cp.png"
+    },
+    {
+      "id": "art-12",
+      "label": null,
+      "description": null,
+      "link": "https://res.cloudinary.com/vladap/image/upload/v1613393605/illustrator/Capture.JPGqwcdasdasdqwd_nrvjic.jpg"
+    }
+  ]
+}
