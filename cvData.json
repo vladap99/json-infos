@@ -1,0 +1,62 @@
+{
+    "name": "Apostol Vlad",
+    "ocupations": [
+        {
+            "id": "1",
+            "label": "Designer"
+        },
+        {
+            "id": "2",
+            "label": "Graphic Designer"
+        },
+        {
+            "id": "3",
+            "label": "Logo designer"
+        }
+    ],
+    "contacts": [
+        {
+            "id": "phone",
+            "info": "0761030884",
+            "icon": "receiver",
+            "link": null
+        },
+        {
+            "id": "mail",
+            "info": "vlad@gmail.com",
+            "icon": "receiver",
+            "link": null
+        },
+        {
+            "id": "site",
+            "info": "My site",
+            "icon": "My site",
+            "link": "https://vladap99.github.io/vladap99"
+        }
+    ],
+    "jobs": [
+        {
+            "title": "Job title",
+            "description": "It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by the",
+            "startDate": "11-11-2011",
+            "endDate": "11-11-2012"
+        }
+    ],
+    "educations": [
+        {
+            "title": "Job education title",
+            "description": "Lorem ipsum",
+            "startDate": "11-11-2011",
+            "endDate": "11-11-2012"
+        }
+    ],
+    "skills": [
+        "photoshop",
+        "photo manipulation",
+        "photo editing",
+        "design",
+        "drawing",
+        "animation",
+        "video editing"
+    ]
+}
