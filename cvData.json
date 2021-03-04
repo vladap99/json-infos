@@ -48,6 +48,18 @@
             "description": "Lorem ipsum",
             "startDate": "11-11-2011",
             "endDate": "11-11-2012"
+        },
+        {
+            "title": "Curs photoshop",
+            "description": "Lorem ipsum",
+            "startDate": "11-11-2011",
+            "endDate": "11-11-2012"
+        },
+        {
+            "title": "Job education title",
+            "description": "Lorem ipsum",
+            "startDate": "11-11-2011",
+            "endDate": "11-11-2012"
         }
     ],
     "skills": [
