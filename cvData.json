@@ -2,64 +2,50 @@
     "name": "Apostol Vlad",
     "ocupations": [
         {
-            "id": "1",
-            "label": "Designer"
-        },
-        {
             "id": "2",
             "label": "Graphic Designer"
-        },
-        {
-            "id": "3",
-            "label": "Logo designer"
-        }
+        }     
     ],
     "contacts": [
         {
             "id": "phone",
-            "info": "0761030884",
+            "info": "0760623382",
             "icon": "receiver",
             "link": null
         },
         {
             "id": "mail",
-            "info": "vlad@gmail.com",
-            "icon": "receiver",
+            "info": "apostol.vlad48@gmail.com",
+            "icon": "mail",
             "link": null
         },
         {
             "id": "site",
-            "info": "My site",
+            "info": "My work",
             "icon": "My site",
             "link": "https://vladap99.github.io/vladap99"
         }
     ],
     "jobs": [
         {
-            "title": "Job title",
-            "description": "It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by the It is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by theIt is a long established fact that a reader will be distracted by the",
-            "startDate": "11-11-2011",
-            "endDate": "11-11-2012"
+            "title": "Part time freelancer",
+            "description": "Ocazional am lucrat pe Upwork si am gasit clienti pe platforme de socializare pentru a imi perfectiona abilitatile de Adobe Photoshop/ Illustrator si comunicare cu clientii astfel incat sa pot intelege mai bine nevoile acestora.",
+            "startDate": null,
+            "endDate": null
         }
     ],
     "educations": [
         {
-            "title": "Job education title",
-            "description": "Lorem ipsum",
+            "title": "Curs Graphic Designer",
+            "description": "Cursul initial m-a introdus in tool-uri-le de Photoshop principale precum cutting, color change, text over images, image transform, adaptarea rezolutiei etc. Tot acest curs m-a introdus in Adobe Illustrator fiind principalul program vectorial in care creez logouri, pamflete, carti de vizita, etc. Perfectionarea acestor abilitati mi-au oferit capabilitatea sa invat concepte mai complicate in Adobe Photoshop: Photo manipulation, Blending images, fire, lighing, shadows and other effects",
             "startDate": "11-11-2011",
             "endDate": "11-11-2012"
         },
         {
-            "title": "Curs photoshop",
+            "title": "Diploma Bacalaureat",
             "description": "Lorem ipsum",
             "startDate": "11-11-2011",
-            "endDate": "11-11-2012"
-        },
-        {
-            "title": "Job education title",
-            "description": "Lorem ipsum",
-            "startDate": "11-11-2011",
-            "endDate": "11-11-2012"
+            "endDate": "absolvit in 2018"
         }
     ],
     "skills": [
@@ -68,7 +54,13 @@
         "photo editing",
         "design",
         "drawing",
-        "animation",
-        "video editing"
+        "Cutting images", 
+        "blend images together", 
+        "create shadowss", 
+        "text over images",
+        "creating fire", 
+        "light effects",
+        "logo design", 
+        "icons creation"
     ]
 }
