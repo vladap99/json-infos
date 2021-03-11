@@ -38,14 +38,14 @@
         {
             "title": "Curs Graphic Designer",
             "description": "I finished a course that introduced me to the main Photoshop tools such as pen tool, color change, text over image, image transform, resolution adaptation, etc. I was also introduced to Adobe Illustrator, being the main vector program in which I create logos, pamphlets, business cards, etc. Perfecting these skills has given me the ability to learn more complicated concepts in Adobe Photoshop: Photo manipulation, Blending images, threads, lighing, shadows and other effects.",
-            "startDate": "11-11-2011",
-            "endDate": "11-11-2012"
+            "startDate": null,
+            "endDate": null
         },
         {
             "title": "Diploma Bacalaureat",
-            "description": "Lorem ipsum",
-            "startDate": "11-11-2011",
-            "endDate": "absolvit in 2018"
+            "description": "Liceul Teoretic Waldorf",
+            "startDate": null,
+            "endDate": null
         }
     ],
     "skills": [
